@@ -6,4 +6,4 @@
 ### Transcribed:
  - Ruben Horvat
 ### PDF:
- - [Tenor Trombone](https://nbviewer.jupyter.org/github.com/BaruTheGhost/the_lady_is_a_tramp_trumpet_solo_transcription/blob/master/pdf/The_Lady_Is_A_Tramp.pdf
+ - [Tenor Trombone](https://github.com/BaruTheGhost/the_lady_is_a_tramp_trumpet_solo_transcription/blob/master/pdf/The_Lady_Is_A_Tramp.pdf)
