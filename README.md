@@ -1,4 +1,6 @@
 # About transcription
+### Artist:
+ - The Gerry Mulligan Quartet
 ### Song:
  - The Lady Is A Tramp
 ### Album:
